@@ -17,3 +17,11 @@
 # Sometimes it's worthwhile to track time. When that time comes, calc. in hours (optional).
 
 
+[CLOSES TICKET TRACKER ID]
+# Paste your ticket tracker ID (it's okay to use things like a Trello URL, etc) here if this commit CLOSES the ticket.
+
+
+[IS WORK TOWARDS TICKET ID]
+# If this is a piece of work that goes towards, but does not close, a ticket in your ticket tracker, paste the ID here.
+
+
